@@ -32,17 +32,17 @@ Everyone has their favorite tools. These are the ones I enjoy working with the m
         <td valign="top">
             <h4>APIs & Systems</h4>
             <ul>
-                <li>Python</li>
                 <li>FastAPI</li>
-                <li>WebSockets</li>
                 <li>Supabase</li>
+                <li>WebSockets</li>
+                <li>Docker</li>
             </ul>
         </td>
         <td valign="top">
             <h4>Data & Visualization</h4>
             <ul>
+                <li>Python</li>
                 <li>SQL</li>
-                <li>Power BI</li>
                 <li>Tableau</li>
             </ul>
         </td>
