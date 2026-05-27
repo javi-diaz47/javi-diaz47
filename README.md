@@ -1,4 +1,4 @@
-# Hey there! I'm Javier Diaz <img src="/home/jdiaz/Documents/sparks.gif" width="48">
+# Hey there! I'm Javier Diaz <img src="./assets/sparks.gif" width="48">
 
 
 <table>
